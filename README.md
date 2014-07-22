@@ -1,4 +1,1 @@
-firstrepo
-=========
-
-hello git
+hello
